@@ -414,3 +414,244 @@ Como você tem **40 horas semanais**, combine:
 
 Isso acelera o aprendizado e fortalece seu portfólio.
 
+---
+
+# Simulador Inteligênte de Entrevistas 🚀
+
+## 📋 Coleta de Dados do Agent 3
+
+# Entrevista e Estruturação de Vaga — Dev Full Stack Júnior 🚀
+
+## 📝 Início da Entrevista
+
+Olá! Vou fazer perguntas sobre a vaga que você está estruturando.
+
+### Pergunta 1
+**Qual é o título da vaga e qual o propósito principal deste cargo?**
+
+**Resposta:**  
+Dev Full Stack Júnior Python e/ou C#
+
+---
+
+### Pergunta 2
+**Qual a senioridade esperada e por quê?**
+
+**Resposta:**  
+Júnior, para aprendizado na prática.
+
+---
+
+### Pergunta 3
+**Quais tecnologias, frameworks e práticas são essenciais para essa vaga?**
+
+**Resposta:**  
+Para uma vaga de Dev Full Stack Júnior em Python ou C#, é essencial dominar:
+- Fundamentos de programação  
+- Frameworks web populares:
+  - Django / Flask (Python)
+  - ASP.NET Core (C#)
+- Boas práticas de:
+  - Versionamento
+  - Testes
+  - Integração com bancos de dados  
+
+---
+
+### Pergunta 4
+**Quais comportamentos ou atitudes são mais valorizados nesse cargo?**
+
+**Resposta:**  
+- Disciplina  
+- Vontade de aprender  
+- Boa comunicação  
+- Transparência  
+
+---
+
+# 📌 Resumo Analítico da Vaga
+
+## 1️⃣ Título e Propósito
+**Título:** Desenvolvedor Full Stack Júnior (Python e/ou C#)
+
+**Propósito:**  
+Atuar no desenvolvimento de aplicações web, integrando front-end e back-end, com foco em aprendizado prático e evolução técnica dentro da equipe.
+
+---
+
+## 2️⃣ Senioridade
+**Nível:** Júnior  
+
+**Justificativa:**  
+Vaga voltada para profissionais em início de carreira, com oportunidade de aprender na prática e evoluir tecnicamente.
+
+---
+
+## 3️⃣ Stack Tecnológico
+
+### Linguagens
+- Python
+- C#
+
+### Frameworks
+- Django / Flask (Python)
+- ASP.NET Core (C#)
+
+### Práticas Essenciais
+- Fundamentos sólidos de programação  
+- Versionamento de código (Git)  
+- Testes automatizados  
+- Integração com bancos de dados relacionais e não relacionais  
+
+---
+
+## 4️⃣ Soft Skills
+- Disciplina  
+- Vontade de aprender continuamente  
+- Boa comunicação em equipe  
+- Transparência em feedbacks e entregas  
+
+---
+
+# 🎯 Simulação de Entrevista Técnica
+
+## Pergunta 1
+**Quais as principais diferenças entre Django e ASP.NET Core?**
+
+**Resposta:**  
+- Django usa Python, conhecido pela sintaxe clara e facilidade de aprendizado.  
+- ASP.NET Core usa C#, mais estruturado e muito comum em ambientes corporativos Microsoft.
+
+---
+
+## Pergunta 2
+**Como garantir integração eficiente entre back-end e front-end?**
+
+**Resposta:**  
+- APIs bem definidas e documentadas  
+- Comunicação via HTTP  
+- Uso de frameworks frontend como React ou Angular  
+- Endpoints seguros e organizados  
+
+---
+
+## Pergunta 3
+**Como otimizar consultas em aplicações com grande volume de dados?**
+
+**Resposta:**  
+- Uso de índices  
+- Consultas enxutas  
+- Paginação  
+- Cache  
+- Uso correto do ORM  
+
+---
+
+## Pergunta 4
+**Como lidar com tecnologias que você ainda não domina em um time ágil?**
+
+**Resposta:**  
+- Reconhecer limitações com transparência  
+- Buscar documentação e tutoriais  
+- Pedir apoio de colegas mais experientes  
+- Dividir tarefas conforme domínio técnico  
+- Dar e receber feedback constante  
+
+---
+
+# 📊 Feedback Analítico da Entrevista
+
+## Pontos Fortes
+- Clareza técnica  
+- Conhecimento de boas práticas  
+- Postura profissional madura  
+- Soft skills alinhadas ao perfil júnior  
+
+## Pontos a Desenvolver
+- Maior profundidade em exemplos práticos  
+- Vivência em projetos reais  
+- Conhecimento em CI/CD e testes automatizados  
+
+## Conclusão
+Perfil promissor para a vaga de Dev Full Stack Júnior, com boa base técnica, excelente atitude e forte alinhamento com aprendizado contínuo.
+
+---
+
+# 📚 Plano de Estudos — 4h por Dia
+
+## 📅 Estrutura Geral
+**Carga:** 4h/dia — 5 dias/semana
+
+---
+
+## 🟢 Semanas 1–2 — Fundamentos
+- **2h/dia:** C# / .NET para iniciantes (YouTube)  
+- **2h/dia:** Python básico + Django (YouTube)  
+
+**Objetivo:** lógica, sintaxe e primeiros projetos.
+
+---
+
+## 🟡 Semanas 3–4 — Frameworks Web
+- **2h/dia:** Django do zero (YouTube – Celke)  
+- **2h/dia:** ASP.NET Core (YouTube – Henrique Eduardo Souza)  
+
+**Objetivo:** APIs, rotas, modelos e autenticação.
+
+---
+
+## 🔵 Semanas 5–6 — Front-End
+- **2h/dia:** React (YouTube – Curso Base)  
+- **2h/dia:** Angular básico (YouTube)  
+
+**Objetivo:** consumir APIs e criar interfaces modernas.
+
+---
+
+## 🟣 Semanas 7–8 — Banco de Dados
+- **2h/dia:** SQL + Django  
+- **2h/dia:** Entity Framework Core  
+
+**Objetivo:** consultas, índices, paginação e ORM.
+
+---
+
+## 🟤 Semanas 9–10 — Boas Práticas
+- **2h/dia:** Git e versionamento  
+- **2h/dia:** Testes automatizados e CI/CD  
+
+**Objetivo:** projetos mais profissionais.
+
+---
+
+# 🕒 Cronograma Diário (4h/dia)
+
+## Bloco 1 — Fundamentos (1h)
+- Aulas teóricas (Python/Django ou C#/ASP.NET Core)
+
+## Bloco 2 — Prática Guiada (1h)
+- Replicar exemplos  
+- CRUD simples  
+
+## Bloco 3 — Front-End (1h)
+- React (Seg–Qua)  
+- Angular (Qui–Sex)  
+
+## Bloco 4 — Projeto Pessoal (1h)
+- Git, testes e evolução de projeto  
+- Documentação no GitHub  
+
+---
+
+## 📌 Organização Semanal
+- **Seg–Sex:** cronograma padrão  
+- **Sábado (opcional):** revisão (2h)  
+- **Domingo:** descanso ou leitura leve  
+
+---
+
+# 🎯 Resultado Esperado
+- Portfólio com 3–4 projetos completos  
+- Domínio de APIs, bancos de dados e boas práticas  
+- Preparação sólida para entrevistas técnicas  
+
