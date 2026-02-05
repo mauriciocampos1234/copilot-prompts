@@ -1,5 +1,7 @@
 # Entrevista de Carreira em Tecnologia 🚀
 
+## 📋 Coleta de Dados do Agent 2
+
 Olá! 👋  
 
 Sou seu entrevistador de carreira em tecnologia. Vou fazer **7 perguntas rápidas** para entender seu perfil e depois sugerir as **melhores carreiras para você**.
@@ -180,3 +182,235 @@ São Paulo, Rio de Janeiro, Belo Horizonte, Brasília
 - **Aplicações estratégicas** focadas em empresas que valorizam transição de carreira
 
 > Sua experiência com **liderança, empatia e pessoas** é um diferencial competitivo no mercado tech.
+
+---
+
+# Plano Personalizado de Carreira em Tecnologia 🚀
+
+## 📋 Coleta de Dados do Agent 2
+
+Para montar o plano completo personalizado, são necessários os seguintes dados:
+
+- **CARREIRA_ESCOLHIDA:** nome da carreira em tecnologia
+- **HORAS_SEMANA:** horas disponíveis por semana
+- **EXPERIENCIA:** zero / iniciante / alguma
+- **OBJETIVO:** primeiro emprego / transição / crescimento
+- **PREFERENCIA:** pessoas / dados / código
+- **INTERESSES:** tecnologias de interesse ou curiosidade
+
+---
+
+## 📌 Dados Informados
+
+- **CARREIRA_ESCOLHIDA:** Desenvolvedor Web Full Stack  
+- **HORAS_SEMANA:** 40  
+- **EXPERIENCIA:** Zero  
+- **OBJETIVO:** Transição / Primeiro emprego / Crescimento  
+- **PREFERENCIA:** Dados / Código  
+- **INTERESSES:** .NET, C#, Python, Banco de Dados, HTML, CSS, JavaScript  
+
+---
+
+## ✅ Confirmação
+
+Olá! Recebi suas informações.
+
+Você escolheu **Desenvolvedor Web Full Stack** e possui **40 horas semanais** para estudo.  
+Isso permite um plano **intensivo e acelerado**.
+
+---
+
+# 🧩 Visão do Dia a Dia
+### Como é o trabalho de um Desenvolvedor Web Full Stack
+
+- Criar interfaces web responsivas com HTML, CSS e JavaScript  
+- Desenvolver APIs e lógica de negócio em C# ou Python  
+- Integrar bancos de dados relacionais e não relacionais  
+- Realizar testes e garantir a qualidade do código  
+- Colaborar com times de design, produto e QA  
+
+---
+
+# 🧠 Mapa de Skills
+
+## Core Skills (Essenciais)
+- Lógica de programação e algoritmos  
+- HTML, CSS e JavaScript  
+- Programação backend (C#/.NET e Python)  
+
+## Nice-to-have (Complementares)
+- Git e GitHub  
+- Noções de arquitetura de software  
+
+## Ferramentas e Tecnologias
+- .NET e C#  
+- Python (Flask / Django)  
+- SQL Server e PostgreSQL  
+- Git / GitHub  
+- VS Code / Visual Studio  
+
+---
+
+# 📅 Roadmap de 90 Dias
+**Adaptado para:** 40 horas/semana (intensivo)
+
+## 🟢 Mês 1 — Fundamentos
+
+### Semana 1–2
+- Lógica de programação  
+- Algoritmos básicos  
+- HTML e CSS (layouts e responsividade)  
+
+### Semana 3–4
+- JavaScript básico (DOM, eventos, funções)  
+- Introdução ao Git e GitHub  
+
+---
+
+## 🟡 Mês 2 — Prática
+
+### Semana 5–6
+- Backend com C# e .NET  
+- APIs REST e MVC  
+- Banco de dados SQL (consultas e relacionamentos)  
+
+### Semana 7–8
+- Python para web (Flask ou Django)  
+- Integração frontend-backend via APIs  
+
+---
+
+## 🔵 Mês 3 — Portfólio e Preparação
+
+### Semana 9–10
+- Projeto Full Stack completo  
+- Autenticação e CRUD  
+
+### Semana 11–12
+- Deploy (Azure, Heroku ou Vercel)  
+- Simulação de entrevistas técnicas  
+- Revisão do portfólio  
+
+---
+
+# 🚀 Projeto de Portfólio
+
+## Projeto
+**Sistema de Gerenciamento de Tarefas (To-Do App Full Stack)**
+
+## Objetivo
+Criar uma aplicação web completa com:
+- Login
+- Cadastro de usuários
+- Gerenciamento de tarefas (CRUD)
+
+## Entregáveis
+- Frontend responsivo (HTML, CSS, JavaScript)  
+- Backend em C#/.NET ou Python (API REST)  
+- Banco de dados relacional (SQL Server ou PostgreSQL)  
+
+## Critérios de Aceitação
+- Criar, editar e excluir tarefas  
+- Autenticação segura  
+- Deploy funcional em nuvem  
+
+> **Dica:** comece com CRUD simples e evolua com filtros, categorias e relatórios.
+
+---
+
+# 💬 Roteiro de Entrevistas
+
+### Pergunta 1
+**Explique a diferença entre frontend e backend.**
+
+**Resposta esperada:**  
+Frontend é a interface visível ao usuário. Backend é a lógica, regras e dados da aplicação.
+
+### Pergunta 2
+**O que é uma API REST?**
+
+**Resposta esperada:**  
+Conjunto de endpoints que permitem comunicação entre sistemas via HTTP usando JSON.
+
+### Pergunta 3
+**Como você versiona seu código?**
+
+**Resposta esperada:**  
+Uso Git e GitHub com commits, branches e pull requests.
+
+### Pergunta 4
+**Qual banco de dados você já utilizou?**
+
+**Resposta esperada:**  
+SQL Server ou PostgreSQL, com consultas básicas e relacionamentos.
+
+### Pergunta 5
+**Conte sobre um projeto que você desenvolveu.**
+
+**Resposta esperada:**  
+Explique objetivo, tecnologias, desafios e resultados.
+
+---
+
+# 🎓 Trilha DIO Recomendada
+
+## Trilha
+**Formação .NET Developer — DIO**
+
+## Por que essa trilha
+- Alinhada com C# e .NET  
+- Foco em projetos práticos  
+- Preparação direta para o mercado  
+
+## Próximos Passos
+1. Acesse **dio.me**
+2. Busque por **Formação .NET Developer**
+3. Inscreva-se gratuitamente
+4. Siga junto com este roadmap
+
+---
+
+# 📚 Cursos Recomendados para Iniciantes
+
+## 📌 JavaScript
+
+- **JavaScript do Zero – Trybe** (gratuito)  
+- **Série JavaScript para Iniciantes – Microsoft Learn** (gratuito)  
+- **JavaScript Básico para Iniciantes – Udemy** (pago)  
+
+---
+
+## 📌 C# para Iniciantes
+
+- **Aprenda C# – Microsoft .NET** (gratuito)  
+- **Curso Completo C# – YouTube** (gratuito)  
+- **C# do Básico ao Avançado – Udemy** (pago)  
+
+---
+
+## 📌 SQL Server para Iniciantes
+
+- **SQL Server Fundamental – YouTube** (gratuito)  
+- **SQL Server Completo – Udemy** (pago)  
+- **Microsoft Learn – SQL Server e Azure SQL** (gratuito)  
+
+---
+
+## 📊 Comparativo Rápido
+
+| Tecnologia  | Curso Gratuito                     | Curso Pago | Plataforma Oficial |
+|------------|------------------------------------|------------|--------------------|
+| JavaScript | Trybe, Microsoft Learn              | Udemy      | Microsoft Learn    |
+| C#         | Microsoft .NET, YouTube             | Udemy      | Microsoft .NET     |
+| SQL Server | YouTube, Microsoft Learn            | Udemy      | Microsoft Learn    |
+
+---
+
+## 💡 Dica Final
+
+Como você tem **40 horas semanais**, combine:
+- **Cursos gratuitos oficiais** (fundamentos sólidos)
+- **Cursos pagos estruturados** (prática e projetos)
+
+Isso acelera o aprendizado e fortalece seu portfólio.
+
